@@ -14,7 +14,7 @@ O site é uma homenagem à **Umbanda**, uma religião brasileira que une element
 ## Como Visualizar o Projeto
 
 Você pode acessar o site diretamente pelo GitHub Pages:  
-🔗 [Tribute Page - Umbanda](https://seu-usuario.github.io/tribute-page-umbanda)
+🔗 [Tribute Page - Umbanda](https://tribute-page-umbanda.vercel.app/)
 
 ## Link do freeCodeCamp
 
